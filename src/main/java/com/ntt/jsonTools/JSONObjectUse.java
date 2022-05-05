@@ -2,8 +2,8 @@ package com.ntt.jsonTools;
 
 import net.sf.json.JSONArray;
 import net.sf.json.JSONObject;
-import net.sf.json.JSONString;
-import net.sf.json.util.JSONBuilder;
+//import net.sf.json.JSONString;
+//import net.sf.json.util.JSONBuilder;
 
 
 public class JSONObjectUse {
