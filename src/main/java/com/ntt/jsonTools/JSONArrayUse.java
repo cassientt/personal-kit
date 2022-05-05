@@ -30,9 +30,11 @@ public class JSONArrayUse {
         jsonArray.add(jsonObject);
         System.out.println("4：" + jsonArray);
 
+
         //遍历
         System.out.println("5：");
         for(int i=0;i<jsonArray.size();i++){
+            // get 获取脚标的元素
             System.out.print(jsonArray.get(i)+"\t");
         }
     }
