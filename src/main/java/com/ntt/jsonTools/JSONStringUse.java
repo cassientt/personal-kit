@@ -3,7 +3,7 @@ package com.ntt.jsonTools;
 import net.sf.json.JSONObject;
 
 /**
- * @author nietingting <yourname@kuaishou.com>
+ * @author nietingting
  * Created on 2022-05-05
  */
 // 字符串 -> 对象：反系列化
