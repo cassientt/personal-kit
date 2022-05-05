@@ -3,10 +3,7 @@ package com.ntt.jsonTools;
 import net.sf.json.JSONArray;
 import net.sf.json.JSONObject;
 
-/**
- * @author nietingting <yourname@kuaishou.com>
- * Created on 2022-05-05
- */
+
 
 public class JSONObjectUse {
 
