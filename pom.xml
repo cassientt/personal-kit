@@ -32,6 +32,15 @@
       <version>2.4</version>
       <classifier>jdk15</classifier>
     </dependency>
+  <!-- 添加打印日志的log   <-->
+    <!-- https://mvnrepository.com/artifact/commons-logging/commons-logging -->
+    <dependency>
+      <groupId>commons-logging</groupId>
+      <artifactId>commons-logging</artifactId>
+      <version>1.2</version>
+    </dependency>
+
+
   </dependencies>
 
   <build>
