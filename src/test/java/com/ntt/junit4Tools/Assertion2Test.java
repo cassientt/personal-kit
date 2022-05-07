@@ -1,7 +1,9 @@
 package com.ntt.junit4Tools;
 
 import org.hamcrest.core.CombinableMatcher;
+import org.junit.FixMethodOrder;
 import org.junit.Test;
+import org.junit.runners.MethodSorters;
 
 import java.util.Arrays;
 
@@ -14,7 +16,7 @@ import static org.junit.Assert.*;
  * @author nietingting
  * Created on 2022-05-07
  */
-
+@FixMethodOrder(MethodSorters.NAME_ASCENDING)
 public class Assertion2Test {
 
     @Test
