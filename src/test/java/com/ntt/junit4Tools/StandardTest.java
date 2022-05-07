@@ -3,8 +3,9 @@ package com.ntt.junit4Tools;
 import org.junit.*;
 
 /**
- * @author nietingting <nietingting@kuaishou.com>
+ * @author nietingting
  * Created on 2022-05-07
+ * 测试生命周期管理
  */
 public class StandardTest {
 
