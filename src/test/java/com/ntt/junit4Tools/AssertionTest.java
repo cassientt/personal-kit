@@ -45,5 +45,5 @@ public class AssertionTest {
 /*
 1. 当预期expected：前，与actual实际不一致时，会报断言不成功；
 2.点击内部代码可跳转到出问题的地方；
-3.Assert.后是根据对象类型（字符串、整型，大小，数组等的比较）
+3.Assert.根据Api接口选择对应的方法；
  */
