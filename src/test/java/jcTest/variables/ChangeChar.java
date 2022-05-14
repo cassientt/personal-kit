@@ -1,4 +1,4 @@
-package jcTest;
+package jcTest.variables;
 // 转义字符的使用
 /**
  * @author nietingting

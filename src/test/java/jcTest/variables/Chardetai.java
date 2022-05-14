@@ -1,7 +1,7 @@
 package jcTest.variables;
 
 /**
- * @author nietingting <nietingting@kuaishou.com>
+ * @author nietingting
  * Created on 2022-05-08
  */
 public class Chardetai {
