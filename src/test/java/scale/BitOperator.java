@@ -1,5 +1,28 @@
-package scale;/**
- * @author nietingting <nietingting@kuaishou.com>
+package scale;
+
+/**
+ * @author nietingting
  * Created on 2022-05-14
- */public class BitOperator {
+ */
+public class BitOperator {
+    public static void main(String[] args) {
+        /*
+        1.先得到2的补码->2的源码 00000000 00000000 00000000 00000010
+            2的补码：00000000 00000000 00000000 00000010
+        2.先得到3的补码->3的源码 00000000 00000000 00000000 00000011
+            3的补码：00000000 00000000 00000000 00000011
+      3.按位& 00000000 00000000 00000000 00000010
+        00000000 00000000 00000000 00000011
+        00000000 00000000 00000000 00000010 & 运算后的补码
+        运算后的源码也是 00000000 00000000 00000000 00000010
+
+         */
+        System.out.println(2&3); //2
+
+
+        System.out.println(~-2); //1
+
+
+
+    }
 }

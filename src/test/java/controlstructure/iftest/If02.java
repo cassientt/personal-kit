@@ -1,4 +1,4 @@
-package controlstructure;
+package controlstructure.iftest;
 import java.util.Scanner;
 /**
  * @author nietingting
